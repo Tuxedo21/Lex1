@@ -1,0 +1,22 @@
+void 0
+main 1
+( 2
+) 2
+{ 2
+	Dummy program for Lex.cpp	 8
+/ 3
+int 0
+, 2
+b_1 1
+c 1
+; 2
+= 4
+a1 1
+12.3 6
+379 6
+<= 5
+ This also works! c = a1 or b_1; 8
+== 5
+printf 1
+hello world 7
+} 2
